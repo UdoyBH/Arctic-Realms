@@ -1,5 +1,7 @@
 # Arctic-Realms
-Arctic Realms is a minecraft server situated in Bangladesh
+<p>
+  <h1 align=center> 
+<Arctic Realms is a minecraft server situated in Bangladesh>
 
 <p>
   <h1 align=center>
